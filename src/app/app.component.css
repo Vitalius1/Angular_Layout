@@ -1,0 +1,23 @@
+app-header{
+    display: block;
+    border: 2px solid black;
+    width: 95%;
+    margin: 3% 2%;
+    background-color: #A0C6F6
+}
+app-nav{
+    display: inline-block;
+    border: 2px solid black;
+    width: 25%;
+    margin: 0 2%;
+    background: #A0C6F6;
+    vertical-align: top;
+    height: 100%;
+}
+app-main{
+    display: inline-block;
+    border: 2px solid black;
+    width: 67%;
+    background-color: #A0C6F6;
+    height: inherit;
+}
