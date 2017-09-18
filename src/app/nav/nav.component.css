@@ -1,0 +1,12 @@
+#nav{
+    display: inline-block;
+    border: 2px solid black;
+    width: 25%;
+    background: #A0C6F6
+}
+button{
+    width: 65%;
+    margin: 0 auto;
+    margin:5% 16%;
+    font-size: 20px;
+}
